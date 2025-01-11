@@ -1,0 +1,10 @@
+img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.deces-div{
+  display: flex;
+  flex-wrap: wrap;
+
+}
